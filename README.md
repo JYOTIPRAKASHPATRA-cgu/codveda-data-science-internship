@@ -54,5 +54,39 @@
 - Level2_Report.pdf  
 - house_predictions.csv  
 
+# Level 3 - Sentiment Analysis Project
+
+## Project: Twitter Sentiment Analysis using Machine Learning
+
+### Tasks Completed:
+- Data Cleaning and Text Preprocessing
+- Stopwords Removal
+- Tokenization
+- TF-IDF Vectorization
+- Sentiment Classification
+- Model Evaluation
+- Confusion Matrix Visualization
+
+### Results:
+- Accuracy: 75.15%
+
+### Key Insights:
+- Positive and negative sentiments were classified successfully
+- Text preprocessing improved model performance
+- Confusion matrix shows balanced prediction capability
+
+### Tools Used:
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- NLTK
+
+### Project Files:
+- Sentiment_Analysis_Project.ipynb
+- cleaned_sentiment.csv
+
 ### Author:
 Jyoti Prakash Patra
